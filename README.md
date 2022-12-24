@@ -19,7 +19,7 @@ Skills: CodeIgniter / PHP / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmulalways&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmulalways&show_icons=true&theme=transpatent)
 
 ![GitHub metrics](https://metrics.lecoq.io/nazmulalways)  
 
