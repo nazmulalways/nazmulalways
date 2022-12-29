@@ -25,13 +25,13 @@ Hi, I'm Nazmul Hossain, a web developer with experience in Codeigniter, PHP, and
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmulalways&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nmhossain&show_icons=true&theme=radical)
 
-![GitHub metrics](https://metrics.lecoq.io/nazmulalways)  
+![GitHub metrics](https://metrics.lecoq.io/nmhossain)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=nazmulalways)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=nmhossain)  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmulalways&label=Profile%20views&color=0e75b6&style=flat" alt="nazmulalways" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nmhossain&label=Profile%20views&color=0e75b6&style=flat" alt="nmhossain" /> </p>
 
 
 
