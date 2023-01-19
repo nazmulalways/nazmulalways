@@ -20,18 +20,18 @@ Hi, I'm Nazmul Hossain, a web developer with experience in Codeigniter, PHP, and
 
  
 <!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=nazmulalways)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=phplime)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nmhossain&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=phplime&show_icons=true&theme=radical)
 
-![GitHub metrics](https://metrics.lecoq.io/nmhossain)  
+![GitHub metrics](https://metrics.lecoq.io/phplime)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=nmhossain)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=phplime)  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nmhossain&label=Profile%20views&color=0e75b6&style=flat" alt="nmhossain" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=phplime&label=Profile%20views&color=0e75b6&style=flat" alt="phplime" /> </p>
 
 
 
